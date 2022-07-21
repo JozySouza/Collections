@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b7672f8-26b5-499a-80bf-b0ac2e74796e" name="Changes" comment="Exercicio Proposto 02">
-      <change afterPath="$PROJECT_DIR$/src/StremAPI/ExemploStream.java" afterDir="false" />
+    <list default="true" id="1b7672f8-26b5-499a-80bf-b0ac2e74796e" name="Changes" comment="Exemplo Stream">
+      <change afterPath="$PROJECT_DIR$/src/StremAPI/Contato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StremAPI/ExRefatoracaoStream.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +41,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="StremAPI" />
       <recent name="List" />
     </key>
   </component>
@@ -212,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658437786740</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Exemplo Stream">
+      <created>1658437928508</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1658437928508</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -237,6 +246,7 @@
     <MESSAGE value="Exemplo Set Ordenação" />
     <MESSAGE value="Exercicio Proposto 01" />
     <MESSAGE value="Exercicio Proposto 02" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercicio Proposto 02" />
+    <MESSAGE value="Exemplo Stream" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exemplo Stream" />
   </component>
 </project>
