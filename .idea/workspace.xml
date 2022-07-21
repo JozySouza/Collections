@@ -44,7 +44,7 @@
       <recent name="List" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExemploOrdenacaoMap">
+  <component name="RunManager" selected="Application.Exprop01_Populacao">
     <configuration name="Ex01_Temperatura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="List.Ex01_Temperatura" />
       <module name="Collections" />
@@ -84,19 +84,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExemploOrdenacaoList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="List.ExemploOrdenacaoList" />
-      <module name="Collections" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="List.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ExemploOrdenacaoMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Map.ExemploOrdenacaoMap" />
       <module name="Collections" />
@@ -110,13 +97,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exprop01_Populacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Map.Exprop01_Populacao" />
+      <module name="Collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exprop01_Populacao" />
         <item itemvalue="Application.ExemploOrdenacaoMap" />
         <item itemvalue="Application.ExemploMap" />
         <item itemvalue="Application.Ex2_Investigacao" />
         <item itemvalue="Application.Ex01_Temperatura" />
-        <item itemvalue="Application.ExemploOrdenacaoList" />
       </list>
     </recent_temporary>
   </component>
