@@ -44,9 +44,22 @@
       <recent name="List" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex01_Temperatura">
+  <component name="RunManager" selected="Application.Ex2_Investigacao">
     <configuration name="Ex01_Temperatura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="List.Ex01_Temperatura" />
+      <module name="Collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="List.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex2_Investigacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="List.Ex2_Investigacao" />
       <module name="Collections" />
       <extension name="coverage">
         <pattern>
@@ -86,6 +99,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex2_Investigacao" />
         <item itemvalue="Application.Ex01_Temperatura" />
         <item itemvalue="Application.ExemploOrdenacaoList" />
         <item itemvalue="Application.ExemploList" />
