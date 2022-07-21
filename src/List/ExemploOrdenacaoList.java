@@ -86,7 +86,7 @@ class Gato implements Comparable<Gato>{
 class ComparatorIdade implements Comparator<Gato>{
     @Override
     public int compare(Gato g1, Gato g2) {
-        return Integer.compare(g1.getIdade(), g2.getIdade()));
+        return Integer.compare(g1.getIdade(), g2.getIdade());
     }
 }
 class ComparatorCor implements Comparator<Gato> {
@@ -106,5 +106,5 @@ class ComparatorNomeCorIdade implements Comparator<Gato> {
 
         return Integer.compare(g1.getIdade(), g2.getIdade());
     }
-        return 0;
+
     }
