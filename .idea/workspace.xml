@@ -41,22 +41,9 @@
       <recent name="List" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExemploSet">
+  <component name="RunManager" selected="Application.ExemploSetOrdenacao">
     <configuration name="Ex02_Dados" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Map.Ex02_Dados" />
-      <module name="Collections" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Map.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExemploMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Map.ExemploMap" />
       <module name="Collections" />
       <extension name="coverage">
         <pattern>
@@ -94,6 +81,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ExemploSetOrdenacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Set.ExemploSetOrdenacao" />
+      <module name="Collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Exprop01_Populacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Map.Exprop01_Populacao" />
       <module name="Collections" />
@@ -109,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExemploSetOrdenacao" />
         <item itemvalue="Application.ExemploSet" />
         <item itemvalue="Application.Ex02_Dados" />
         <item itemvalue="Application.Exprop01_Populacao" />
         <item itemvalue="Application.ExemploOrdenacaoMap" />
-        <item itemvalue="Application.ExemploMap" />
       </list>
     </recent_temporary>
   </component>
