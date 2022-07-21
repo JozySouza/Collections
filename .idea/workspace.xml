@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b7672f8-26b5-499a-80bf-b0ac2e74796e" name="Changes" comment="Update Exemplo Map">
-      <change afterPath="$PROJECT_DIR$/src/Map/ExemploOrdenacaoMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1b7672f8-26b5-499a-80bf-b0ac2e74796e" name="Changes" comment="Exercicio Proposto 02" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,26 +41,13 @@
       <recent name="List" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex02_Dados">
+  <component name="RunManager" selected="Application.ExemploSet">
     <configuration name="Ex02_Dados" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Map.Ex02_Dados" />
       <module name="Collections" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Map.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex2_Investigacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="List.Ex2_Investigacao" />
-      <module name="Collections" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,6 +81,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ExemploSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Set.ExemploSet" />
+      <module name="Collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Exprop01_Populacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Map.Exprop01_Populacao" />
       <module name="Collections" />
@@ -112,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExemploSet" />
         <item itemvalue="Application.Ex02_Dados" />
         <item itemvalue="Application.Exprop01_Populacao" />
         <item itemvalue="Application.ExemploOrdenacaoMap" />
         <item itemvalue="Application.ExemploMap" />
-        <item itemvalue="Application.Ex2_Investigacao" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +161,28 @@
       <option name="project" value="LOCAL" />
       <updated>1658436707320</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Update Exemplo Ordenacao Map">
+      <created>1658436825921</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1658436825921</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Update Exercio Proposto 01">
+      <created>1658436975014</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1658436975014</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Exercicio Proposto 02">
+      <created>1658437106368</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1658437106368</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,6 +201,9 @@
     <MESSAGE value="Exercicio Proposto na aula" />
     <MESSAGE value="Update Exercicio Proposto 2" />
     <MESSAGE value="Update Exemplo Map" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Exemplo Map" />
+    <MESSAGE value="Update Exemplo Ordenacao Map" />
+    <MESSAGE value="Update Exercio Proposto 01" />
+    <MESSAGE value="Exercicio Proposto 02" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicio Proposto 02" />
   </component>
 </project>
